@@ -1,0 +1,3 @@
+arrangements:C:\Users\Robin\Desktop\arrangements.json
+trials:10
+password:password

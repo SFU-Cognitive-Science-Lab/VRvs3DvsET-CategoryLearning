@@ -1,0 +1,1 @@
+This repository is an accompanying resource to "Exploring Implementation Effects in Learning and Information Access: Comparing Virtual Reality, 3D, and 2D Versions of a Category Learning Experiment"
